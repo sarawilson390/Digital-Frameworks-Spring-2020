@@ -16,7 +16,8 @@ COVID-19 is shaping up to be the biggest story of this year, perhaps even this d
    * They could check with experts in each of the fields they stratified the data in: race, immigration, housing, etc.
    * They provided both first and secondary sources.
    * Everything was explained well. 
-   ### Objective: Quality
+
+#### Objective: Quality
 
 * This was executed with impeccable quality. 
    * There is enough information for context but not enough to overwhelm visually. 

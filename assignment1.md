@@ -37,3 +37,40 @@ COVID-19 is shaping up to be the biggest story of this year, perhaps even this d
 
 * This was extremely creative. Timelines can be so boring, but the design elements and additional information made this exceptional.
    * It was a 4/5 in effectiveness. 
+   
+## Story Idea 2: How do rural hospital closures affect COVID cases?
+
+
+### [Critique 2: Coronavirus Was Slow to Spread to Rural America. Not Anymore.](https://www.nytimes.com/interactive/2020/04/08/us/coronavirus-rural-america-cases.html)
+#### Objective: Clarity and accuracy
+
+* As the reader scrolled, the map of America updated to show the spread of coronavirus in rural America. It clearly communicated the point that COVID has spread throughout rural counties and they are not immune to the pandemic. 4/5 
+   * The point was to show the number of confirmed cases in each rural county. 
+   * That thesis point was in the headline.
+* It was also very intuitive to navigate this data. The map updated as you scrolled with coordinating text, and then the graphic stayed static before the main article started. 5/5
+   * Yes. Scrolling was the most efficient. 
+   * It would be cool to have tool tips over the counties, to hover over and see the number of cases.
+* The data was based on "data from state and local health agencies, hospitals and the Centers for Disease Control and Prevention." As much as we can trust these sources is as much as we can trust the accuracy. 4/5
+   * I might question the accuracy in states with slow responses, like Alabama. Where did tests slowly arrive? That could impact accuracy. 
+   * I'm not sure what other experts to check with besides local governments and hospitals. Those are the record keepers of the area. 
+   * They provided sources at the very bottom of the article. 
+   * Everything was explained well. 
+
+#### Objective: Quality
+
+* They used an orange gradient to express number of cases. 
+   * It's a simple map with a key, so it looks like it goes together. 
+* Consider some tasks a data story must do well: (present, compare, organize, correlate)
+   * The color was a great way for the reader to compare county by county the number of cases. A dark orange county next to a light orange or gray county raised natural questions about the case disparity. 
+
+#### Objective: Type and color (if piece includes graphics)
+
+* Again, the orange gradient was an effective way to communicate case number severity. 
+* Type: 5
+   * It used a simple sans serif to label states, with a white stroke for readability.
+* Color: 5 
+   
+#### Objective: Creativity
+
+* This was a creative presentation of data. Heat maps are effective and intuitive. 
+   * It was a 5/5 in effectiveness. 

@@ -39,7 +39,7 @@ COVID-19 is shaping up to be the biggest story of this year, perhaps even this d
    * It was a 4/5 in effectiveness. 
    
 ## Story Idea 2: How do rural hospital closures affect COVID cases?
-
+One of the most impactful healthcare stories in the past decade is the closure of rural hospitals. I am interested in how this intersects with the COVID-19 pandemic. What does a rural county do when they don't have a single hospital? The Black Belt, a string of poor, underserved counties in the South would be a good entry point in this. Alabama had nearly 20 hospital closures from 2010-2017. How are those communities faring now in this public health crisis? Where did the burden fall without a hospital? Is it impacting the ability hospitals in metropolitan areas to take care of their own caseloads?
 
 ### [Critique 2: Coronavirus Was Slow to Spread to Rural America. Not Anymore.](https://www.nytimes.com/interactive/2020/04/08/us/coronavirus-rural-america-cases.html)
 #### Objective: Clarity and accuracy
